@@ -16,3 +16,5 @@ The error between the input data and the reconstructed output in the autoencoder
 * The false alarm rate is a crucial metric that indicates the ratio of false alarms to the total number of non-faulty SNs. 
 * Similarly, the false positive rate represents the ratio of false positives, where non-faulty SNs are mistakenly identified as faulty, to the total number of non-faulty SNs.
 
+# Research paper link
+https://ieeexplore.ieee.org/document/10397796
