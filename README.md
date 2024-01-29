@@ -1,6 +1,6 @@
-#Fault detection in wireless sensor networks using autoencoder classifier.
-# We propose a fault detection algorithm based on an autoencoder-based classification model.
-Unlike traditional neural networks, autoencoders have equal numbers of neurons in the input and output layers, facilitating fault detection by comparing input and output values.
+# Fault detection in wireless sensor networks using autoencoder classifier.
+#We propose a fault detection algorithm based on an autoencoder-based classification model.
+#Unlike traditional neural networks, autoencoders have equal numbers of neurons in the input and output layers, facilitating fault detection by comparing input and output values.
 We evaluate the proposed algorithm against existing approaches using three key parameters: fault detection accuracy, false alarm rate, and false positive rate.
 Our simulation results demonstrate the superior performance of the proposed algorithm in detecting faults such as spike, fixed bias, gain, and out-of-bounds faults within the network.
 The proposed Autoencoder architecture incorporates essential components such as the weight matrix, W^[h] , and the bias vector, b^[h] , in the hidden layer.
